@@ -1,0 +1,14 @@
+<round>
+  <start>2025-06-16T03:33:36+03:00</start>
+  <end>2025-06-16T03:33:49+03:00</end>
+  <code>9021</code>
+  <players>
+    <player name="[::1]:52532">
+      <attempts>1</attempts>
+    </player>
+    <player name="[::1]:52540">
+      <attempts>0</attempts>
+    </player>
+  </players>
+  <winner>[::1]:52532</winner>
+</round>
